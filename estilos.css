@@ -1,0 +1,15 @@
+p .frutas{
+    background-color: rgb(84, 192, 84);
+}
+
+p.frutas{
+    background-color: yellow;
+}
+
+p .frutas{
+    color: white;
+}
+
+h1{
+    color: purple;
+}
